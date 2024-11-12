@@ -17,8 +17,8 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 
 STEP 5:Include Necessary parameters in each functions.
 
-## Developed by: G Keerthana
-## Reg.No:212223240045
+## Developed by: REVATHI k
+## Reg.No:212223040169
 # Coding and Output:
 ```p
 import seaborn as sns
